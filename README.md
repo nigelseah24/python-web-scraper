@@ -40,7 +40,7 @@ Before running the script, ensure you have the following installed:
    pip install -r requirements.txt
    ```
 
-   Create a requirements.txt file with the following content:
+   The requirements.txt file should have the following content:
 
    ```
    requests
